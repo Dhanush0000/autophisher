@@ -28,3 +28,4 @@ else
 	cd $AUTOPHISHER_ROOT
 	bash ./autophisher.sh
 fi
+
