@@ -1,5 +1,3 @@
-Here's a rewritten version of the README:
-
 ---
 
 # AutoPhisher
